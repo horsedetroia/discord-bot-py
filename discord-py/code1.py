@@ -21,4 +21,4 @@ intents.message_content = True #Garante que o bot possa ler o conteúdo das mens
 
 client = MyClient(intents=intents) #Você está criando uma instância do seu bot personalizado. Uma forma de  chamar a classe e todas as suas permissões
 
-client.run("MTM4OTgxODE0MTU5MjI1NjYwMw.G-N5n3.4_SAMf1tMUdMnDAW9PiP6WxMSsPhvlVMtiPjBA") #inicia o seu bot, usando um token de autenticação (verificação da identidade do bot)
+client.run("BOT TOKEN") #inicia o seu bot, usando um token de autenticação (verificação da identidade do bot)
