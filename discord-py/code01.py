@@ -6,4 +6,4 @@ intents = discord.Intents.default() # Declara os recursos que o bot pode acessar
 
 client = discord.Client(intents=intents) #Isso cria nosso bot. É como dizer 'o bot (client), cadastrado como cliente do Discord (discord.Client), pode acessar os recursos definidos acima (intents=intents)'
 
-client.run('Seu token') # Coloca o bot para iniciar
+client.run('TOKEN DO BOT') # Coloca o bot para iniciar
