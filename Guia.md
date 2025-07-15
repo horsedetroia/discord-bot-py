@@ -25,5 +25,7 @@ Cada tópico pode ser expandido ao clicar na seta que indica para baixo. Deste m
   [Python - Mundo 3 - Curso em Vídeo](https://www.cursoemvideo.com/curso/python-3-mundo-3/) - Parte 3.
 
   [W3schools - Python](https://www.w3schools.com/python/default.asp) - Curso escrito sobre Python, com exercícios e área para compilar códigos. Ótimo para revisões rápidas.
+
+  [Dio](https://www.dio.me/) - Plataforma com  uma infinidade de cursos e bootcamps, muitos certificados e projetos iniciais para melhorar o currículo
   
 </details>
