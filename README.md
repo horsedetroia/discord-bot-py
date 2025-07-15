@@ -20,6 +20,6 @@ Este repositório serve para que você aprenda a fazer um bot para o discord uti
 ### Qual a melhor ordem para começar?
 
 1. Comece lendo o [README.md](https://github.com/horsedetroia/discord-bot-py/blob/main/README.md) - conjunto de informações  básicas sobre os objetivos e métodos do respectivo repositório.
-2. 
+2. Seja redirecionado para um fluxo de estudos progressivo em [Guia](https://github.com/horsedetroia/discord-bot-py/blob/main/Guia.md)
 
 O código do bot oficial construido durante o desafio será disponibilizado futuramente, mas caso haja interesse em verificar o progresso, entre no [servidor do discord](https://discord.gg/73Qd3VUp6B).
