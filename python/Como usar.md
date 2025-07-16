@@ -6,5 +6,5 @@ Os conteúdos são divididos por pastas com um arquivo de explicações e divers
 
 ### A seguir, a melhor ordem para estudar os conteúdos:
 
-1. [Operações com números](
+1. [Operações com números](https://github.com/horsedetroia/discord-bot-py/tree/main/python/Opera%C3%A7%C3%B5es%20com%20N%C3%BAmeros)
 2. [Tipos de dados](
