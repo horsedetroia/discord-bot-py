@@ -7,4 +7,13 @@ print('1' + '1') # As aspas declaram que o número 1 é uma string (é um texto)
 
 print(1 + 1) # A falta de aspas, indica que 1 é um número inteiro, e pode ser somado, resultando em 2
 
-print('1' + 1) # Um número não pode ser somado com um texto, gerando um erro no código e parando sua execução.
+# print('1' + 1) # Um número não pode ser somado com um texto, gerando um erro no código e parando sua execução.
+
+"""Do mesmo modo, a conversão de números pode ser utilizada quando há necessidade de trabalhar com números quebrados (float), ou controlar o tamanho do arquivo (bytes):
+"""
+
+preço = 30
+print('Preço inteiro:', preço)
+
+preço = float(30)
+print('Preço com ponto flutuante:', preço)
