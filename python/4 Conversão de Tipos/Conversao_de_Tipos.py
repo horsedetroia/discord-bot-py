@@ -17,3 +17,9 @@ print('Preço inteiro:', preço)
 
 preço = float(30)
 print('Preço com ponto flutuante:', preço)
+
+# Porém, o Python é uma linguagem dinâmica! Ou seja, se eu realizo uma divisão entre números inteiros, o resultado será um número de ponto flutuante:
+
+print(10/5) # Ambos são números inteiros, que tem um resultado em float
+
+print(10//5) #Ambos são números inteiros, e o resultado será inteiro por // declara que será uma divisão com resultado inteiro.
